@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Change this value to configure the free chat window. Five minutes = 300 seconds. -->
+    <integer name="free_chat_duration_seconds">300</integer>
+
+    <string-array name="legal_case_categories">
+        <item>Civil</item>
+        <item>Criminal</item>
+        <item>Family</item>
+        <item>Consumer</item>
+        <item>Property</item>
+        <item>Employment</item>
+        <item>Rent / Tenancy</item>
+        <item>Tax</item>
+        <item>Other</item>
+    </string-array>
+
+    <integer-array name="payment_plan_prices_rupees">
+        <item>100</item>
+        <item>150</item>
+        <item>250</item>
+    </integer-array>
+
+    <integer-array name="payment_plan_durations_minutes">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+    </integer-array>
+</resources>
