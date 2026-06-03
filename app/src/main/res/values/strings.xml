@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Legal Petition Assistant</string>
+    <string name="disclaimer">This assistant prepares a draft petition from the details provided. Review it with a qualified lawyer before filing in court.</string>
+</resources>
